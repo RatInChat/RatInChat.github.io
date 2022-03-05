@@ -1,4 +1,4 @@
-# Welcome To Gerardo's Website.
+# Welcome To My Website.
 
-## Games:
-[Gerardo Clicker] (https://gerardoandtherat.me/gerardoclicker)
+## Projects:
+[Homepage] (https://ratinchat.github.com)
