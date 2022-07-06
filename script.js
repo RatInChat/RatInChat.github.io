@@ -1,4 +1,4 @@
-let yoshi = new Audio("FrozenCocktail.mp3");
+let yoshi = new Audio("https://ratinchat.github.io/FrozenCocktail.mp3");
 function play() {
     yoshi.play();
     yoshi.loop = true;
