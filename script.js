@@ -1,4 +1,4 @@
-let yoshi = new Audio("https://cdn.glitch.global/f147a427-db96-4f44-b29c-e04e8d78369f/yoshi.mp3?v=1656882672252");
+let yoshi = new Audio("FrozenCocktail.mp3");
 function play() {
     yoshi.play();
     yoshi.loop = true;
