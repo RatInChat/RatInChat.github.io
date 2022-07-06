@@ -1,4 +1,4 @@
 # Welcome To My Website.
 
 ## Projects:
-[Homepage] (https://ratinchat.github.com)
+[Homepage] (https://ratinchat.github.io)
