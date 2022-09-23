@@ -10,10 +10,7 @@ const config = {
             assets: "docs",
 			fallback: '200.html'
         }),
-        paths: {
-            // change below to your repo name
-            base: dev ? "" : "/ratinchat.github.io",
-        }
+
     }
 };
 
