@@ -1,3 +1,3 @@
 ### SOON ###
 soon to be website!
-with svelte!
+with svelte! Yay!
