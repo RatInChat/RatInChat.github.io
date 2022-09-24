@@ -6,3 +6,10 @@ node_modules
 .env
 .env.*
 !.env.example
+/src
+.npmrc
+package-lock.json
+package.json
+svelte.config.js
+vite.config.js
+/static
